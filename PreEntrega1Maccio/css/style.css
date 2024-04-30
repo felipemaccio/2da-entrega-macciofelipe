@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Nunito", sans-serif;
+    
+}
+.encabezado{
+    width: 200px ;
+}
+.encabezado img{
+    width: 100%;
+}
+.menu-list li{
+    width: 100px;
+    background-color: #73b473;
+}
+.menu-list li a{
+    width: 100%;
+    text-decoration: none;
+    font-family: "Nunito", sans-serif;
+}
+.imag-top{
+    width: 400px;
+}
+.imag-top img{
+    width: 100%;
+}
+.titulo{
+    font-family: "Nunito", sans-serif;
+}
+.subtitulo{
+    width: 50px;
+}
+.articulos h3{
+    font-family: "Nunito", sans-serif;
+}
+.img-locales{
+    width: 650px;
+
+}
+.img-locales img{
+    width: 80%;
+}
+.img-locales p{
+    text-align: justify;
+}
+.localesimg{
+    width: 600px;
+}
+.localesimg img{
+    width: 100%;
+}
+.destacados div{
+    width:350px;
+}
+.destacados div img{
+    width: 100%;
+}
+.prod-destacados div{
+    width: 350px; ;
+}
+.prod-destacados div img{
+    width: 100%;
+}
+.card{
+    width: 10px;
+}
+.contacto-icon div{
+    background-color: #f0f8ff;
+    width: 250px;
+    border-radius: 10px;
+    white-space: 10px;
+}
+.contacto-icon div img{
+    width: 50%;
+}
+.fr-logo img{
+    width: 100px;
+}
+.fr-imgs{
+    width: 50px;
+}
+.fr-imgs img{
+    width: 100%;
+}
